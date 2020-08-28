@@ -48,7 +48,7 @@ body, input, button, textarea{
 
 #container{
   width: 90vh; /*width = largura*/
-  max-width: 700px;
+  
 }
 
 @media(min-width:700px){
